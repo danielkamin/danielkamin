@@ -17,6 +17,7 @@
 <a href="https://instagram.com/don_kamyk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="don_kamyk" height="30" width="40" /></a>
 <a href="https://hashnode.com/@daniel1202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@daniel1202" height="30" width="40" /></a>
 <a href="https://medium.com/@daniel.kaminski1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@daniel.kaminski1998" height="30" width="40" /></a>
+<a href="https://peerlist.io/danielkamin" target="blank"><img align="center" src="https://peerlist-readme-badge.herokuapp.com/api/danielkamin?style=for-the-badge" alt="danielkamin" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielkamin&show_icons=true&locale=en" alt="danielkamin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danielkamin&" alt="danielkamin" /></p>
+
 
